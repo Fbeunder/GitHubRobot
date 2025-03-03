@@ -1,0 +1,41 @@
+VOLGENDE STAPPEN:
+
+MUST-HAVES:
+1. Basisstructuur project opzetten
+   - Opzetten van de basismappenstructuur
+   - Initialiseren van een requirements.txt bestand
+   - Maken van lege Python-modules volgens de architectuur
+
+2. Robot weergave component ontwikkelen
+   - Implementeren van de robot_display.py module
+   - Ontwerpen van een eenvoudige robot met SVG of ASCII-art
+   - Implementeren van klikbare functionaliteit
+
+3. Quotes generator implementeren
+   - Implementeren van de quotes_generator.py module
+   - Verzamelen van een lijst grappige quotes
+   - Ontwikkelen van een functie voor het willekeurig selecteren van quotes
+
+4. Hoofdapplicatie implementeren
+   - Implementeren van de app.py module
+   - Integreren van de robot_display en quotes_generator componenten
+   - Zorgen voor een goede gebruikersinterface met Streamlit
+
+5. Stijlen toevoegen
+   - Implementeren van de styles.py module
+   - Ontwerpen van een aantrekkelijke gebruikersinterface
+   - Toevoegen van responsieve elementen
+
+6. Testen en documentatie
+   - Schrijven van basis unit tests
+   - Documenteren van de code
+   - Maken van een README.md met installatieaanwijzingen
+
+NICE-TO-HAVES:
+1. Animatie toevoegen aan de robot wanneer deze spreekt
+2. Mogelijkheid om de robot verschillende stemmen te geven
+3. Opslaan van favoriete quotes
+4. Toevoegen van verschillende robots met verschillende persoonlijkheden
+5. Integratie met echte GitHub API voor project-specifieke quotes
+6. Opties voor het aanpassen van het uiterlijk van de robot
+7. Donkere/lichte modus voor de interface
