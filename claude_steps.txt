@@ -1,0 +1,49 @@
+# GitHubRobot Ontwikkelstappen
+
+## Volgende stappen
+
+### Must-haves (noodzakelijk voor basiswerking)
+
+1. **Basisstructuur opzetten**
+   - Creëer de basis projectstructuur
+   - Maak een .gitignore bestand aan met claude.txt en claude_steps.txt
+   - Maak een requirements.txt bestand aan
+
+2. **Robot weergave implementeren**
+   - Ontwikkel de robot_display.py module
+   - Implementeer een functie om een robot te tekenen/weer te geven
+   - Zorg dat de robot visueel aantrekkelijk is
+
+3. **Quote generator implementeren**
+   - Ontwikkel de quote_generator.py module
+   - Implementeer een functie om willekeurige grappige GitHub-gerelateerde quotes te genereren
+   - Zorg voor een gevarieerde set aan quotes
+
+4. **Hoofdapplicatie implementeren**
+   - Ontwikkel de app.py module
+   - Integreer de robot weergave en quote generator
+   - Implementeer interactiviteit (klikken op de robot voor nieuwe quotes)
+   - Zorg voor een aantrekkelijke layout
+
+5. **Documentatie**
+   - Maak een README.md met instructies voor installatie en gebruik
+   - Documenteer de code
+
+### Nice-to-haves (verbeteringen)
+
+1. **Animatie toevoegen**
+   - Voeg eenvoudige animaties toe wanneer op de robot wordt geklikt
+
+2. **Thema's implementeren**
+   - Voeg verschillende thema's of stijlen toe voor de robot
+
+3. **Geluid toevoegen**
+   - Voeg geluidseffecten toe bij interactie
+
+4. **Persistentie**
+   - Sla gebruikersvoorkeuren op
+
+5. **Uitgebreide tests**
+   - Voeg unit tests toe voor alle modules
+
+De bovenstaande must-haves zijn noodzakelijk voor de basiswerking van de applicatie. De nice-to-haves zijn verbeteringen die later kunnen worden toegevoegd.
