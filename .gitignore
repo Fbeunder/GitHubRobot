@@ -1,0 +1,47 @@
+# Python specifieke bestanden
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtuele omgeving
+venv/
+env/
+ENV/
+
+# IDE specifieke bestanden
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Streamlit specifieke bestanden
+.streamlit/
+
+# Project specifieke bestanden
+claude.txt
+claude_steps.txt
+
+# Logs en databases
+*.log
+*.sqlite
+
+# OS specifieke bestanden
+.DS_Store
+Thumbs.db
