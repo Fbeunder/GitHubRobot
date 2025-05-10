@@ -1,0 +1,39 @@
+# GitHubRobot Project Overzicht
+
+## Projectoverzicht
+De GitHubRobot is een web-applicatie die een leuke robot tekent en grappige GitHub-gerelateerde uitspraken doet wanneer erop geklikt wordt. De robot heet 'Stan de GitHub Robot' en is bedoeld om lokaal te kunnen draaien met behulp van Streamlit en Python.
+
+## Architectuur
+De applicatie heeft een eenvoudige modulaire structuur:
+
+### Modules:
+
+1. **app.py**
+   - Status: Nog te implementeren
+   - Functionaliteit: Hoofdapplicatie die de Streamlit interface initialiseert en alle componenten samenbrengt
+   - Afhankelijkheid: robot_display.py, quote_generator.py
+
+2. **robot_display.py**
+   - Status: Nog te implementeren
+   - Functionaliteit: Module voor het tekenen en weergeven van de robot
+   - Afhankelijkheid: Geen
+
+3. **quote_generator.py**
+   - Status: Nog te implementeren
+   - Functionaliteit: Module voor het genereren van grappige robot uitspraken
+   - Afhankelijkheid: Geen
+
+4. **requirements.txt**
+   - Status: Nog te implementeren
+   - Functionaliteit: Lijst met benodigde Python packages
+   - Afhankelijkheid: Geen
+
+5. **.gitignore**
+   - Status: Nog te implementeren
+   - Functionaliteit: Configuratie voor bestanden die niet in Git opgenomen moeten worden
+   - Afhankelijkheid: Geen
+
+6. **README.md**
+   - Status: Nog te implementeren
+   - Functionaliteit: Documentatie over het project en instructies voor gebruik
+   - Afhankelijkheid: Geen
